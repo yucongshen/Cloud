@@ -1,0 +1,11 @@
+.header,.dl-main-nav {
+	/*background: url('../img/main-nav-bg.png') repeat-x 0 0 #204077;*/
+	background-color:#3C4B86;
+}
+
+.header {
+	background-color: #1b3179;
+	height: 45px;
+	width: 100%;
+	overflow: hidden;
+}
